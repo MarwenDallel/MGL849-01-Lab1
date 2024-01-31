@@ -3,7 +3,7 @@
     sudo apt install default-jdk
     sudo apt install python3-dev sense-hat
     
-# Créer un environnement virtual
+# Créer un environnement virtuel
     python -m venv venv
     source ~/venv/bin/activate
 
@@ -18,5 +18,5 @@
 # Démarrer le programme d'affichage
     java -jar Lab1Afficheur.jar
 
-# Démarrer programme sense hat
+# Démarrer le programme sense hat
     python sense_socket.py

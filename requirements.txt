@@ -1,0 +1,4 @@
+numpy==1.26.3
+pillow==10.2.0
+RTIMULib==7.2.1
+sense-hat==2.6.0

@@ -5,7 +5,7 @@
     
 # Créer un environnement virtuel
     python -m venv venv
-    source ~/venv/bin/activate
+    source ./venv/bin/activate
 
 # Installer les prérequis Python
     pip install -r requirements.txt

@@ -49,9 +49,5 @@ while True:
     # Display the actual temperature on the computer screen
     print("Actual Temperature: {:.1f}C".format(actual_temp))
     
-    # Optional: You can also display this on the Sense HAT LED matrix
-    # To prevent the message display from clashing with the joystick input,
-    # you might want to use a different method or timing for this.
-    
     # Wait some time before reading the temperature again
     time.sleep(2)
